@@ -1,6 +1,6 @@
 #React + Vite
 
-# 📌 EMI Calculator
+#  EMI Calculator
 
 A simple **EMI (Equated Monthly Installment) Calculator** that helps users calculate their monthly loan payments.  
 Built with **React.js**.
@@ -16,8 +16,8 @@ Built with **React.js**.
 ---
 
 ##  Tech Stack
--React.js
--Chart.js
+React.js
+Chart.js
 
 
 
@@ -25,10 +25,11 @@ Built with **React.js**.
 
 1. Clone the repo:
    git clone https://github.com/your-username/EMI-Calculator.git
-   cd EMI-Calculator
-2. Install Dependencies
+   
+   cd calculator
+3. Install Dependencies
    npm install
-3. Run the app
+4. Run the app
    npm run dev
 
    
